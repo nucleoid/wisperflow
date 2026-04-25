@@ -11,7 +11,7 @@ per-token cost.
 Requires Windows 10/11 with `winget` (ships by default on current Windows).
 
 ```powershell
-git clone <this-repo> wisperflow
+git clone https://github.com/nucleoid/wisperflow.git wisperflow
 cd wisperflow
 .\install.ps1
 ```
